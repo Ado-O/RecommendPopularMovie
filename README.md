@@ -1,7 +1,8 @@
 # RecommendPopularMovie
 Movie app that recommends a popular movie. It is merged with Api themovieDB, which daily refreshes with a popular movie
 
-The app is simple, it consists of one Button on home page where it leads to Card that ejects a poster with a trailer. 
-![alt text](https://photos.google.com/photo/AF1QipOwbyrn5TRdOLBcVsk3ySeLo01q3_QyxAuK0dGy)
-![alt text](https://photos.google.com/photo/AF1QipOmGnpf3QWwcrwRlCFYOwDys_PvZe-Jh8V3uekr)
-
+The app is simple, it consists of one Button on home page where it leads to Card that ejects a poster with a trailer.
+<p float="left">
+<img src="https://user-images.githubusercontent.com/23535511/41353973-0c12f68c-6f1e-11e8-94c8-3f92a83353d6.png" width=300>
+<img src="https://user-images.githubusercontent.com/23535511/41353920-e7abd610-6f1d-11e8-96c6-fd4ced679ceb.png" width=300>
+</p>
